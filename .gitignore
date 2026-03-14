@@ -1,11 +1,36 @@
+# Python cache
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.env
-.env
+*.py[cod]
+*$py.class
+
+# Virtual environments
 venv/
 .env/
-.ipynb_checkpoints
+env/
+
+# Environment variables
+.env
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Artifacts / models
 artifacts/
+models/
+
+# Logs
 logs/
+*.log
+
+# Data files (large datasets)
+data/raw/
+data/processed/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
