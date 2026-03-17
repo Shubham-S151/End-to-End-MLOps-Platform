@@ -34,3 +34,6 @@ Thumbs.db
 # IDE settings
 .vscode/
 .idea/
+
+# Others
+test/
