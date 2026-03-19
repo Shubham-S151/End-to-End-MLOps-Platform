@@ -5,7 +5,7 @@ LOC	Local calls - within same telecom circle
 STD	STD calls - outside the calling circle
 IC	Incoming calls
 OG	Outgoing calls
-T2T	"Operator T to T, i.e. within same operator (mobile to mobile)"
+T2T	Operator T to T, i.e. within same operator (mobile to mobile)
 T2M    	Operator T to other operator mobile
 T2O    	Operator T to other operator fixed line
 T2F    	Operator T to fixed lines of T
