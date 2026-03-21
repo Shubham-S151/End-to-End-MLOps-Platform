@@ -1,0 +1,23 @@
+Column,Description
+Trans_date_trans_time,Timestamp of the transaction (date and time).
+Cc_num,Unique customer identification number.
+Merchant,The merchant involved in the transaction.
+Category,"Transaction type (e.g., personal, childcare)."
+Amt,Transaction amount.
+First,Cardholder's first name.
+Last,Cardholder's last name.
+Gender,Cardholder's gender.
+Street,Cardholder's street address.
+City,Cardholder's city of residence.
+State,Cardholder's state of residence.
+Zip,Cardholder's zip code.
+Lat,Latitude of cardholder's location.
+Long,Longitude of cardholder's location.
+City_pop,Population of the cardholder's city.
+Job,Cardholder's job title.
+Dob,Cardholder's date of birth.
+Trans_num,Unique transaction identifier.
+Unix_time,Transaction timestamp (Unix format).
+Merch_lat,Merchant's location (latitude).
+Merch_long,Merchant's location (longitude).
+Is_fraud,"Fraudulent transaction indicator (1 = fraud, 0 = legitimate)."
