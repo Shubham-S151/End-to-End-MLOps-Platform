@@ -1,0 +1,30 @@
+{
+    "num_cols": [
+        "cc_num",
+        "amt",
+        "zip",
+        "lat",
+        "long",
+        "city_pop",
+        "unix_time",
+        "merch_lat",
+        "merch_long",
+        "is_fraud"
+    ],
+    "cat_cols": [
+        "merchant",
+        "category",
+        "first",
+        "last",
+        "gender",
+        "street",
+        "city",
+        "state",
+        "job",
+        "trans_num"
+    ],
+    "time_cols": [
+        "trans_date_trans_time",
+        "dob"
+    ]
+}
