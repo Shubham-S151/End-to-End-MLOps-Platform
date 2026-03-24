@@ -1,14 +1,11 @@
 {
+    "target_col": "is_fraud",
     "num_cols": [
         "cc_num",
         "amt",
         "zip",
-        "lat",
-        "long",
         "city_pop",
         "unix_time",
-        "merch_lat",
-        "merch_long",
         "is_fraud"
     ],
     "cat_cols": [
@@ -20,11 +17,18 @@
         "street",
         "city",
         "state",
-        "job",
-        "trans_num"
+        "job"
+    ],
+    "loc_cols": [
+        "long",
+        "lat",
+        "merch_lat",
+        "merch_long",
+        "zip"
     ],
     "time_cols": [
         "trans_date_trans_time",
-        "dob"
+        "dob",
+        "unix_time"
     ]
 }
